@@ -52,7 +52,7 @@ export default function Index() {
             <div className="relative animate-scale-in">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 rounded-3xl blur-3xl"></div>
               <img 
-                src="https://cdn.poehali.dev/projects/a4eb87eb-eb87-4ea7-baed-34c510fd363b/files/91931a3d-2736-4086-9ade-77933099332d.jpg"
+                src="https://cdn.poehali.dev/projects/a4eb87eb-eb87-4ea7-baed-34c510fd363b/files/f01b4340-abed-48e6-a668-d8bd671e3a8f.jpg"
                 alt="Преподаватель испанского языка"
                 className="relative rounded-3xl shadow-2xl w-full h-auto object-cover"
               />
