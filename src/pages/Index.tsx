@@ -127,7 +127,7 @@ export default function Index() {
                   <p className="text-muted-foreground">Познакомимся и определим уровень</p>
                 </div>
                 <div className="text-4xl font-bold text-primary">
-                  500 ₽
+                  1 500 ₽
                   <span className="text-lg font-normal text-muted-foreground">/урок</span>
                 </div>
                 <ul className="space-y-3">
@@ -163,7 +163,7 @@ export default function Index() {
                   <p className="text-primary-foreground/80">Регулярные занятия</p>
                 </div>
                 <div className="text-4xl font-bold text-primary-foreground">
-                  1 500 ₽
+                  3 000 ₽
                   <span className="text-lg font-normal text-primary-foreground/80">/урок</span>
                 </div>
                 <ul className="space-y-3">
@@ -200,7 +200,7 @@ export default function Index() {
                   <p className="text-muted-foreground">Подготовка к экзаменам</p>
                 </div>
                 <div className="text-4xl font-bold text-primary">
-                  2 000 ₽
+                  5 000 ₽
                   <span className="text-lg font-normal text-muted-foreground">/урок</span>
                 </div>
                 <ul className="space-y-3">
